@@ -75,8 +75,3 @@ export async function POST(request, { params }) {
     );
   }
 }
-
-// Allow large file uploads (videos up to 100 MB)
-export const config = {
-  api: { bodyParser: false },
-};
