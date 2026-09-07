@@ -1,0 +1,9 @@
+{
+  "name": "LL126 Field Inspector",
+  "short_name": "LL126",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a2332",
+  "theme_color": "#1a2332",
+  "description": "Capitol Compliance parapet inspection field app"
+}
